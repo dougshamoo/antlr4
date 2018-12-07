@@ -66,7 +66,7 @@ You are now ready to bundle your parsing code as follows:
  
 This will produce a single js file containing all your parsing code. Easy to include in your web pages!
 
-If you can't use webpack, you can use the lib/require.js script which implements the Node.js 'require' function in brwsers.
+If you can't use webpack, you can use the lib/require.js script which implements the Node.js 'require' function in browsers.
 
 This script is provided by Torben Haase, and is NOT part of ANTLR JavaScript runtime.   
 
